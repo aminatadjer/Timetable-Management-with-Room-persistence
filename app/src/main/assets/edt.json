@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "jour": "2020-05-01",
+    "hDebut": "09:00",
+    "hFin": "11:00",
+    "module": "THP",
+    "salle": "cp2",
+    "ens": "Benatchba",
+    "semaine": "1"
+  },
+  {
+    "id": 2,
+    "jour": "2020-05-07",
+    "hDebut": "08:00",
+    "hFin": "12:00",
+    "module": "TPGO",
+    "salle": "M4",
+    "ens": "Hidouci",
+    "semaine": "2"
+  },
+  {
+    "id": 3,
+    "jour": "2020-05-08",
+    "hDebut": "08:00",
+    "hFin": "12:00",
+    "module": "ALGEBRE",
+    "salle": "M4",
+    "ens": "Ait Amrane",
+    "semaine": "2"
+  }
+
+]
